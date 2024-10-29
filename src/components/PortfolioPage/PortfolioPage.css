@@ -1,0 +1,37 @@
+.portfolio {
+    margin: 0;
+    padding: 5rem;
+    text-align: left;
+}
+
+.portfolio-container, .achievements-container {
+    margin: 0;
+    padding: 3rem 0rem;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.portfolio-container  > * {
+    margin: 1em;
+    width: 30%;
+  }
+  
+.achievements-container > * {
+    margin: 1em;
+    width: 30%;
+}
+@media (max-width: 800px) {
+    .portfolio {
+        padding: 1rem;
+    }
+    .portfolio-container {
+        padding: 1rem 0rem;
+        flex-direction: column;
+    }
+    .portfolio-container > * {
+        margin: 1em 0em;
+        width: 100%;
+      }
+  }
