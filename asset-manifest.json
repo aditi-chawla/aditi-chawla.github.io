@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.acf73138.css",
+    "main.js": "/static/js/main.7594f3d8.js",
+    "static/js/453.ed3810f9.chunk.js": "/static/js/453.ed3810f9.chunk.js",
+    "static/media/ADITI_HEADSHOT.jpeg": "/static/media/ADITI_HEADSHOT.ef42558d85f757d66729.jpeg",
+    "static/media/ADITI_CHAWLA_RESUME.pdf": "/static/media/ADITI_CHAWLA_RESUME.4a56b05c1e1bf2429db2.pdf",
+    "static/media/feedback.jpg": "/static/media/feedback.44b091397c0e06dafd2c.jpg",
+    "static/media/abc (6).jpeg": "/static/media/abc (6).10766a06b846b11c7b66.jpeg",
+    "static/media/champion (1).jpeg": "/static/media/champion (1).7f04f8f50700d6277b95.jpeg",
+    "static/media/RAG (2).png": "/static/media/RAG (2).16a4e6212589b071191c.png",
+    "static/media/blog (2).webp": "/static/media/blog (2).d6f9689e9ca7c077ae81.webp",
+    "static/media/LLM (1).webp": "/static/media/LLM (1).9efd543822e856e9ef3c.webp",
+    "static/media/background.avif": "/static/media/background.43fa86fb933c01ca4fca.avif",
+    "index.html": "/index.html",
+    "main.acf73138.css.map": "/static/css/main.acf73138.css.map",
+    "main.7594f3d8.js.map": "/static/js/main.7594f3d8.js.map",
+    "453.ed3810f9.chunk.js.map": "/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.acf73138.css",
+    "static/js/main.7594f3d8.js"
+  ]
+}
