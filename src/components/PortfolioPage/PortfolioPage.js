@@ -102,7 +102,7 @@ export default function PortfolioPage() {
                         <Card.Body>
                             <Card.Title>Publication</Card.Title>
                             <Card.Text>
-                            Published author on IBM Developer Portal. Engineered and documented open-source implementation of Branched RAG architecture using WatsonX.AI
+                            Published author on IBM Developer Portal. Engineered and documented open-source implementation of Branched RAG architecture using WatsonX.AI. Link - https://developer.ibm.com/articles/awb-introduction-branched-rag/ 
                             </Card.Text>
                             {/* <Button variant="primary" onClick={NavigateToAchievement2}>Learn More</Button> */}
                         </Card.Body>
